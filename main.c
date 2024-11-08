@@ -48,13 +48,15 @@ int main()
         printf("good");
         break;
     case 75 ... 84:
-        printf("very good");
+        printf("very good and keep going ");
         break;
     case 85 ... 100:
-        printf("excllent");
+        printf("excllent 
+            thanks");
         break;
     default:
 
         break;
         return 0;
     }
+
